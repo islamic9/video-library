@@ -1,0 +1,35 @@
+ul{
+    list-style: none;
+}
+.wrapper{
+    width: 1200px;
+    margin: 8% auto;
+}
+.img{
+    margin: 0;
+    display: inline-block;
+    margin-bottom: 21px;
+}
+.list{
+    display: flex;
+    align-items: center;
+}
+
+.item{
+    text-align: center;
+    margin-right: 188px;
+}
+.item:nth-last-child(1){
+    margin: 0
+}
+.s{
+    Font-size: 32px;
+    margin-bottom: 8px;
+    font-family: sans-serif;
+    color: #1C3554;
+}
+.text{
+    font-family: sans-serif;
+    color: #1C3554;
+    font-weight: 600;
+}
